@@ -1,1 +1,26 @@
+#presentacion {
+    min-height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("assets/wallpaper2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#proyecto-1 {
+    background-image: url('google.png');
+}
+#proyecto-2 {
+    background-image: url('google.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
